@@ -1,7 +1,7 @@
 # Employee_review
 Employee_review using HTML, CSS, JAVASCRIPT, BOOTSTRAP
 LIVE:
-
+[a relative link](file:///C:/Users/Admin/Desktop/new%20class%20web%20development/javascript/miniproject/emp_review/index.html)
 [a link](file:///C:/Users/Admin/Desktop/new%20class%20web%20development/javascript/miniproject/emp_review/index.html)
 OUTPUT:
 
